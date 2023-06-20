@@ -19,7 +19,7 @@ Aproximación Caso de Uso:
 ## Diagrama de Flujo - Pseint
 Aproximación Diagrama de Flujo:
 
-![](https://github.com/David959sa/proyectbanco.github.io/assets/136820958/20a9fe37-a332-48df-8346-d9b183cf1bfe)
+![](https://github.com/David959sa/BaseBancoBrayan/assets/136820958/51ebb4d5-fa02-4a28-b6b6-b332f6acd903)
 ## Pseudocódigo - Pseint
 Aproximación  Pseudocódigo::
 ![](https://github.com/David959sa/proyectbanco.github.io/assets/136820958/ce6dce63-1b3e-47d6-a558-33af8e9be57f)
